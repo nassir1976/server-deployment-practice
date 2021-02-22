@@ -18,7 +18,8 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jest": "^26.6.2",
-    "supertest": "^6.0.0"
+    "supertest": "^6.0.0",
+    "x": "^0.1.2"
   },
   "bugs": {
     "url": "https://github.com/nassir1976/server-deployment-practice/issues"
