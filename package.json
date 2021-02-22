@@ -7,6 +7,10 @@
     "test": "jest --coverage",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nassir1976/server-deployment-practice.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
