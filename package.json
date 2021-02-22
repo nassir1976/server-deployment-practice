@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nassir1976/server-deployment-practice.git"
+    "url": "git+https://github.com/nassir1976/server-deployment-practice.git"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +19,10 @@
     "express": "^4.17.1",
     "jest": "^26.6.2",
     "supertest": "^6.0.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/nassir1976/server-deployment-practice/issues"
+  },
+  "homepage": "https://github.com/nassir1976/server-deployment-practice#readme",
+  "devDependencies": {}
 }
