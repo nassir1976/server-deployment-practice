@@ -33,7 +33,11 @@ function start(port) {
   app.listen(port, () => console.log(`Server up on port ${port}`))
 }
 
+//exporteable server 'app' -> express and your routes/middleware 
+// 'start'->function that starts your server and is now bound to "start", making it server start 
+
 module.exports = {
+  //name of property app
   app: app,
   start: start
 }
