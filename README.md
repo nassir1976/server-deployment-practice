@@ -1,8 +1,9 @@
 # server-deployment-practice
-- <li><a href=https://dashboard.heroku.com/apps/nassir-server-deploy-dev class="icon fa-twitter"><span class="label">go to heroku app </span></a>
-- <li><a href=https://github.com/nassir1976/server-deployment-practice class="icon fa-twitter"><span class="label">go to gitHub </span></a>
+- <a href=https://dashboard.heroku.com/apps/nassir-server-deploy-dev class="icon fa-twitter"><span      class="label">go to heroku app </span></a>
 
-- <li><a href=https://github.com/nassir1976/server-deployment-practice/pull/2 class="icon fa-twitter"><span class="label"> pull request </span></a>
+- <a href=https://github.com/nassir1976/server-deployment-practice class="icon fa-twitter"><span class="label">go to gitHub </span></a>
+
+- <a href=https://github.com/nassir1976/server-deployment-practice/pull/2 class="icon fa-twitter"><span class="label"> pull request </span></a>
 
  **Deploy!**
 ### workflow
